@@ -1,0 +1,3 @@
+# satty
+
+Stub repository.
